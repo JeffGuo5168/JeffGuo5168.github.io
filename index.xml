@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jeff&#39;s Hugo Site</title>
+    <link>http://jeffguo5168.github.io/</link>
+    <description>Recent content on jeff&#39;s Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Sep 2019 22:07:28 +0800</lastBuildDate>
+    
+	<atom:link href="http://jeffguo5168.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yes! 第二篇</title>
+      <link>http://jeffguo5168.github.io/posts/my-second/</link>
+      <pubDate>Sat, 07 Sep 2019 22:07:28 +0800</pubDate>
+      
+      <guid>http://jeffguo5168.github.io/posts/my-second/</guid>
+      <description>二级继续 三级 四级 Here you go!</description>
+    </item>
+    
+    <item>
+      <title>第一片博文</title>
+      <link>http://jeffguo5168.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 07 Sep 2019 21:31:05 +0800</pubDate>
+      
+      <guid>http://jeffguo5168.github.io/posts/my-first-post/</guid>
+      <description> This is my first blog for norma&amp;hellip; 三级标题 </description>
+    </item>
+    
+  </channel>
+</rss>
